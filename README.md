@@ -1,3 +1,3 @@
 # hacks
 
-# H-1	Enviar un commit al repositorio remoto (listo)
+# H-03 Hacer merge en mi master local y luego con master remoto
