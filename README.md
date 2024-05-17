@@ -1,3 +1,3 @@
 # hacks
 
-# H-03 Hacer merge en mi master local y luego con master remoto
+# H_04 Extraer archivo de stage
